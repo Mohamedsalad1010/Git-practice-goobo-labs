@@ -1,4 +1,6 @@
-print('hello goobo labs')
-print('hello  world')
-name=caasho
-print('hello  world' , name)
+# Simple Python Program
+print("Welcome to Goobo Labs!")
+print("Hello World")
+name = "Caasho"
+print("Hello", name)
+print("Welcome to Goobo Labs!")
