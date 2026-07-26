@@ -1,4 +1,2 @@
 # halkaan waxaa ku soo gubinyaa assigiments git hub practice cashir 1  to 4 
-### assigment1 it has 100 comments
-
-
+This project was created for educational purposes as part of a Git & GitHub Bootcamp Assignment.
