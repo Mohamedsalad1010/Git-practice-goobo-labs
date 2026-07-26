@@ -4,3 +4,10 @@ This repository contains my Git and GitHub practice assignments from Lessons 1 t
 ## Purpose
 
 This project was created to practice Git version control and GitHub collaboration.
+
+## Lessons Covered
+
+- Lesson 1
+- Lesson 2
+- Lesson 3
+- Lesson 4
