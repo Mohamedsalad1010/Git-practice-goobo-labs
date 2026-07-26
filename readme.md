@@ -30,3 +30,6 @@ GitHub: Mohamedsalad1010
 ## Thank You
 
 Thank you for reviewing my assignment.
+
+---
+This project was created for educational purposes as part of the Goobo Labs Git & GitHub Bootcamp.
