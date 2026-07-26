@@ -18,3 +18,7 @@ This project was created to practice Git version control and GitHub collaboratio
 - Commit changes
 - Work with branches
 - Push to GitHub
+
+## Author
+
+Mohamed Salad
