@@ -23,3 +23,6 @@ This project was created to practice Git version control and GitHub collaboratio
 
 Mohamed Salad
 GitHub: Mohamedsalad1010
+## Status
+
+✅ Completed
