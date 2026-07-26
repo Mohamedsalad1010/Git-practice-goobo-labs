@@ -11,3 +11,10 @@ This project was created to practice Git version control and GitHub collaboratio
 - Lesson 2
 - Lesson 3
 - Lesson 4
+
+## Learning Outcomes
+
+- Create repositories
+- Commit changes
+- Work with branches
+- Push to GitHub
